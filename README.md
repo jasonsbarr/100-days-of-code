@@ -1,5 +1,16 @@
 # I've joined the #100DaysOfCode Challenge
 
+I'm using [#100DaysofCode](https://www.100daysofcode.com/) as a motivational tool to encourage practice- and project-based learning for my [Open Source Personal Computer Science Learning Program](https://github.com/jasonsbarr/ospcslp) and kick off this personal curriculum strongly.
+
+Every day I will record my day's work here, which could include:
+
+- Learning projects from my curriculum
+- Practice problems (e.g. algorithm solutions)
+- Personal projects
+- Professional or client projects (I may start taking freelance contracts again after a personal layoff)
+
+Time spent taking notes on classes, watching tutorial videos, etc. will **not** count for the purposes of my 100 Days log. This is for time spent on development work and code practice *only*.
+
 ## Contents
 
 * [Rules](rules.md)
