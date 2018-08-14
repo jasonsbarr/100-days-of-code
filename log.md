@@ -2,7 +2,7 @@
 
 ### Day 1: August 13, 2018
 
-**Today's Progress**: Built JavaScript30 day one project: JavaScript Drum Kit and the index page for my whole JS30 run.
+**Today's Progress**: Built [JavaScript30](https://javascript30.com) day one project: JavaScript Drum Kit and the index page for my whole JS30 run.
 
 **Thoughts:** There was nothing difficult about any of it conceptually, but it's good to start stretching my code muscles again even if it's just with a simple project.
 
